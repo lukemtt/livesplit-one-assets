@@ -104,8 +104,8 @@
                 "height": 60,
                 "color_override": null,
                 "show_gradient": true,
-                "digits_format": "DoubleDigitMinutes",
-                "accuracy": "Seconds",
+                "digits_format": "DoubleDigitHours",
+                "accuracy": "Hundredths",
                 "is_segment_timer": false
             }
         },
