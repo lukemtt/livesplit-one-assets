@@ -21,13 +21,13 @@
                 "text_color": null,
                 "show_game_name": true,
                 "show_category_name": true,
-                "show_finished_runs_count": false,
+                "show_finished_runs_count": true,
                 "show_attempt_count": true,
                 "text_alignment": "Auto",
                 "display_as_single_line": false,
                 "display_game_icon": true,
                 "show_region": false,
-                "show_platform": false,
+                "show_platform": true,
                 "show_variables": true
             }
         },
