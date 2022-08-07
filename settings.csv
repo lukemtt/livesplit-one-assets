@@ -1,0 +1,10 @@
+Name,Key
+"Start / Split",Space
+Reset,Q
+"Undo Split",Backspace
+"Skip Split",2
+Pause,P
+"Undo All Pauses",
+"Previous Comparison",4
+"Next Comparison",6
+"Toggle Timing Method",
